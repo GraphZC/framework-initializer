@@ -13,6 +13,7 @@ Framework initializer is a tool for initializing a new project with a framework.
 git clone https://github.com/GraphZC/framework-initializer.git
 cd framework-initializer
 npm install
+make update-svelte
 ```
 
 ## Development
